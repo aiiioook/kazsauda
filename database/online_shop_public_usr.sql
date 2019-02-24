@@ -1,0 +1,3 @@
+INSERT INTO public.usr (user_id, email, active, last_name, name, password) VALUES (1, 'aidos.jantleu@gmail.com', true, 'Zhantleu', 'Aydos', '$2a$10$nEQBTjJIuqHoJLbmvZ1jKOZ8QVNWKI74acvuTcIaIPOCFJtm7.HP2');
+INSERT INTO public.usr (user_id, email, active, last_name, name, password) VALUES (2, 'uspanov@mail.ru', true, 'Uspanov', 'Azamat', '$2a$10$Ji7u0452JyRgbQ3.hnkrgO0qs/VTVHND.ENl58fvKkCr6M3S1KrLu');
+INSERT INTO public.usr (user_id, email, active, last_name, name, password) VALUES (3, '123456@mail.ru', true, 'Zhantleu', 'Aydos Zhantleu', '$2a$10$nJOgBx0StCcuwTh4.Rl3R.JKWCszdpeWIJuKIQ8DEAc3Xg34JZg8q');
